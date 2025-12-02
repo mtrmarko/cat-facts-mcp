@@ -1,0 +1,9 @@
+{
+  "mcp.servers": {
+    "cat-facts": {
+      "command": "python",
+      "args": ["-m", "cat_facts_mcp.server"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}
